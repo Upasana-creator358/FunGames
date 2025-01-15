@@ -1,0 +1,71 @@
+/* div {
+    background-color: green;
+    height: 200px;
+    width: 400px;
+}
+
+ul{
+    background-color: pink;
+}
+
+li{
+    background-color: blue;
+} */
+
+body {
+text-align: center;
+
+}
+.div-container{
+    display: flex;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+    
+    
+}
+.btn1 {
+    height: 150px;
+    width: 150px;
+    border: 7px solid black;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    
+}
+
+
+
+
+/* div {
+position: absolute ;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+} */
+
+.blue{
+    background-color: rgb(14, 79, 149);
+}
+
+.pink {
+    background-color: rgb(177, 45, 113);
+}
+.green {
+    background-color: rgb(170, 190, 59);
+}
+.red {
+    background-color: rgb(220, 78, 65);
+}
+
+.gameFlash {
+    background-color: #fff;
+}
+
+.userFlash{
+    background-color: green;
+}
+
